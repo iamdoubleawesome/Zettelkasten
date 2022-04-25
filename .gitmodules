@@ -1,0 +1,3 @@
+[submodule "side_projects/Furiends/Backend"]
+	path = side_projects/Furiends/Backend
+	url = https://github.com/Furiends/Backend
